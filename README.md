@@ -25,7 +25,7 @@ A Python application that detects geometric shapes (circles, rectangles, and tri
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/shape-detector.git
+git clone https://github.com/b4d33r/shape-detector.git
 cd shape-detector
 ```
 
