@@ -2,7 +2,7 @@
 
 A Python application that detects geometric shapes (circles, rectangles, and triangles) in real-time using your webcam or from uploaded images.
 
-![Shape Detector Demo](docs/demo.png)
+![Shape Detector Demo](demo.png)
 
 ## Features
 
